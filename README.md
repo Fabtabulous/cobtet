@@ -8,4 +8,4 @@ variables everywhere and I made the piece arrays as big as the whole playing fie
 I needed to keep track of a pivot anyhow to enable rotation so that approach ended up being incredibly wrong and costly.  
 This was a three day exercise, and all in all I'm pretty happy with it.
 
-[Image](fabtabulous.github.com/cobtet/img/cobtet.png)
+[Image]([fabtabulous.github.com/cobtet/img/cobtet.png](https://github.com/Fabtabulous/cobtet/blob/main/img/cobtet.png))
